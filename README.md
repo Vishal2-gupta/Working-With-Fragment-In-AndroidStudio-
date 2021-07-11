@@ -7,6 +7,6 @@ Fragments cannot live on their own--they must be hosted by an activity or anothe
 
 # Output For Fragment
 ![1625995506991](https://user-images.githubusercontent.com/62341045/125190187-72beb680-e259-11eb-9edf-1cde25eb633d.jpg)
-![1625995506983](https://user-images.githubusercontent.com/62341045/125190188-75211080-e259-11eb-8b43-ff0c855295c5.jpg
+![1625995506983](https://user-images.githubusercontent.com/62341045/125190188-75211080-e259-11eb-8b43-ff0c855295c5.jpg)
   
   
